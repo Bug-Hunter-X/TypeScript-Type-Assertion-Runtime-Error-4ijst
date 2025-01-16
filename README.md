@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon TypeScript bug related to type assertions and arithmetic operations. The `bug.ts` file shows code that compiles without errors but produces a runtime error because TypeScript does not fully evaluate arithmetic operations at compile time. The `bugSolution.ts` file offers a solution to prevent this type of error.
